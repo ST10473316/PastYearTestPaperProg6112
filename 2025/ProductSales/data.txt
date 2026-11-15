@@ -1,0 +1,6 @@
+PRODUCT SALES REPORT
+----------------------------------------
+Total sales: 2200
+Average sales: 366,67
+Sales over limit: 2
+Sales under limit: 4
